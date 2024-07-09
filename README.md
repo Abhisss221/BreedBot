@@ -90,11 +90,8 @@ The dataset used for this project is from the Kaggle Dog Breed Identification co
 
 ```
 dog-breed-classification/
-├── model.py                 # Script for building and training the model
-├── predict.py               # Script for making predictions
-├── requirements.txt         # Python dependencies
+├── model.py                 # Script for building and training the model and makeing prediction
 ├── README.md                # Project README file
-└── datasets/                # Directory containing the dataset (images organized by breed)
 ```
 
 ## Acknowledgements
